@@ -1,0 +1,9 @@
+# Environments
+.env
+.venv/
+env/
+venv/
+__pycache__/
+
+# Database
+data/chroma_db/
