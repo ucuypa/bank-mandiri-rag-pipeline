@@ -35,8 +35,7 @@ A standalone Python pipeline that transforms static `.jpg` slides into fully edi
    ```
    pip install -r requirements.txt
    ```
-4. **Environment Variables:**
-   Create a .env file in the root directory and add your AI Model API key:
+4. **Create a .env file in the root directory and add your AI Model API key:**
    ```
    AI_MODEL_API_KEY="your_api_key_here"
    ```
